@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/modelviewerfiber/static/css/main.c8bf7a08.chunk.css",
-    "main.js": "/modelviewerfiber/static/js/main.cfc38875.chunk.js",
-    "main.js.map": "/modelviewerfiber/static/js/main.cfc38875.chunk.js.map",
+    "main.js": "/modelviewerfiber/static/js/main.24eff7ac.chunk.js",
+    "main.js.map": "/modelviewerfiber/static/js/main.24eff7ac.chunk.js.map",
     "runtime-main.js": "/modelviewerfiber/static/js/runtime-main.d33b26c0.js",
     "runtime-main.js.map": "/modelviewerfiber/static/js/runtime-main.d33b26c0.js.map",
-    "static/js/2.43309a0f.chunk.js": "/modelviewerfiber/static/js/2.43309a0f.chunk.js",
-    "static/js/2.43309a0f.chunk.js.map": "/modelviewerfiber/static/js/2.43309a0f.chunk.js.map",
+    "static/js/2.2daa7cc5.chunk.js": "/modelviewerfiber/static/js/2.2daa7cc5.chunk.js",
+    "static/js/2.2daa7cc5.chunk.js.map": "/modelviewerfiber/static/js/2.2daa7cc5.chunk.js.map",
     "static/js/3.96e4163d.chunk.js": "/modelviewerfiber/static/js/3.96e4163d.chunk.js",
     "static/js/3.96e4163d.chunk.js.map": "/modelviewerfiber/static/js/3.96e4163d.chunk.js.map",
     "index.html": "/modelviewerfiber/index.html",
     "static/css/main.c8bf7a08.chunk.css.map": "/modelviewerfiber/static/css/main.c8bf7a08.chunk.css.map",
-    "static/js/2.43309a0f.chunk.js.LICENSE.txt": "/modelviewerfiber/static/js/2.43309a0f.chunk.js.LICENSE.txt",
+    "static/js/2.2daa7cc5.chunk.js.LICENSE.txt": "/modelviewerfiber/static/js/2.2daa7cc5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/modelviewerfiber/static/media/bg.48cd9c83.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d33b26c0.js",
-    "static/js/2.43309a0f.chunk.js",
+    "static/js/2.2daa7cc5.chunk.js",
     "static/css/main.c8bf7a08.chunk.css",
-    "static/js/main.cfc38875.chunk.js"
+    "static/js/main.24eff7ac.chunk.js"
   ]
 }
