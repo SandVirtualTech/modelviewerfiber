@@ -5,7 +5,7 @@ import ModelViewer from './components/ModelViewer'
 import DiscreteSlider from './components/Slider'
 import BasicButtonGroup from './components/ControlsButtons'
 import Grid from '@material-ui/core/Grid';
-import ControlledOpenSelect from './components/AttachmentsColor'
+import AttacmentsButton from './components/AttachmentsColor'
 import SwitchLabels from './components/ShowSwitch'
 
 function App() {
@@ -39,7 +39,10 @@ function App() {
             <h3>E-mail</h3>
             <p>name@example.com</p>
             <br/>
-            <ControlledOpenSelect/>
+            <h2>Attachments</h2>
+            <p>Colors</p>
+            <AttacmentsButton/>
+            <br/>
             <SwitchLabels/>
           </div>
         </Grid>
