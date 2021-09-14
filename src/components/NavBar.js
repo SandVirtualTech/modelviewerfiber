@@ -8,11 +8,9 @@ import VideocamOutlinedIcon from '@material-ui/icons/VideocamOutlined';
 import VisibilityOffOutlinedIcon from '@material-ui/icons/VisibilityOffOutlined';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
-
 import Button from '@material-ui/core/Button';
 import { Divider } from '@material-ui/core';
 import ButtonGroup from '@material-ui/core/ButtonGroup';
-//import { useThree } from '@react-three/fiber'
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -43,6 +41,7 @@ function a11yProps(index) {
   return {
     id: `scrollable-force-tab-${index}`,
     'aria-controls': `scrollable-force-tabpanel-${index}`,
+    
   };
 }
 
@@ -61,6 +60,7 @@ const ScrollableTabsButtonForce = () => {
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
+    console.log(newValue);
   };
 
   return (

@@ -11,7 +11,7 @@ const mytheme = createTheme({
     palette: {
       primary: '#1f1f1f',
       secondary: {
-        main: '#e91e63',
+        main: '#ffffff',
       },
     },
   },

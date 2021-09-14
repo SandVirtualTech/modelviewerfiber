@@ -19,17 +19,18 @@ function App() {
         justifyContent="flex-start"
         alignItems="flex-start"
       >
-        <Grid item container md={9}>
+        <Grid item container md={10}>
           <div className="gridRow">
             <ModelViewer/>
             <br/>
+            <DiscreteSlider className="slider" />
             <DiscreteSlider className="slider" />
             <BasicButtonGroup/>
           </div>
             
         </Grid>
 
-        <Grid item container md={3}>
+        <Grid item container md={2}>
           <div className="gridRow">
             <h2>Patient info</h2>
             <h3>Name</h3>
@@ -47,7 +48,6 @@ function App() {
           </div>
         </Grid>
       </Grid>
-      <FloatingActionButtonZoom/>
     </div>
   );
 }
